@@ -1,0 +1,2 @@
+0x5F0cA7CaFB1404509f183d2E490b3b7C053872b2 : airdrop
+0x40dbf508d9aedf3b748a19c5dec7c90892f229a3 : owner wallet
